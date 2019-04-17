@@ -1,0 +1,5 @@
+[10-Nov-2017 00:04:04 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/chun960/public_html/Spotify/chromaticsearch.php on line 63
+[10-Nov-2017 00:20:59 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/chun960/public_html/Spotify/chromaticsearch.php on line 118
+[10-Nov-2017 00:21:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/chun960/public_html/Spotify/chromaticsearch.php on line 118
+[10-Nov-2017 00:43:25 UTC] PHP Parse error:  syntax error, unexpected '⚈' (T_STRING), expecting ',' or ';' in /home/chun960/public_html/Spotify/chromaticsearch.php on line 119
+[10-Nov-2017 00:44:04 UTC] PHP Parse error:  syntax error, unexpected '⚈' (T_STRING), expecting ',' or ';' in /home/chun960/public_html/Spotify/chromaticsearch.php on line 119
