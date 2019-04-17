@@ -1,5 +1,10 @@
 {
     "require": {
         "jwilsson/spotify-web-api-php": "^2.0"
-    }
+    },
+    "post-install-cmd": [
+     "php artisan clear-compiled",
+     "php artisan optimize",
+     "chmod -R 777 public/"
+ ]
 }
