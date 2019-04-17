@@ -6,7 +6,8 @@ require 'vendor/autoload.php';
 $session = new SpotifyWebAPI\Session(
     '674830028d00453288807f07cfe372c3',
     'd1d71d40e87b4f05b0931abfc4c66a0b',
-    'http://acad.itpwebdev.com/~chun960/Spotify/callback.php'
+    // 'http://acad.itpwebdev.com/~chun960/Spotify/callback.php'
+    'https://spotifychromatic.herokuapp.com/callback.php'
 );
 
 $refreshToken = $session->getRefreshToken();
